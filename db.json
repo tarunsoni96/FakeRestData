@@ -1,5 +1,4 @@
-{
-  "hotels": [
+{"hotels": [
     {
       "id": 1,
       "title": "Hotel 1"
@@ -15,4 +14,34 @@
       "title": "Hotel 3"
     },
   ],
-}
+
+"filters":[
+    {
+      "id":1,
+      "name":"All",
+    },
+    
+    
+    {
+      "id":2,
+      "name":"Appetizers",
+    },
+    
+    
+    {
+      "id":3,
+      "name":"Soups",
+    },
+    
+    
+    {
+      "id":4,
+      "name":"Salads",
+    },
+    
+    {
+      "id":5,
+      "name":"Wraps",
+    },
+    
+    ]}
