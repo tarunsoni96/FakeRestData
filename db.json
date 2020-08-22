@@ -73,24 +73,16 @@
     
     {
       "id":4,
-      "name":"Salad"
+      "name":"Tasty Salad"
     },
-
-    {
-      "id":4,
-      "name":"Salad"
-    },
-
+    
     {
       "id":5,
-      "name":"Wraps"
-    },
-
-
-    {
-      "id":5,
-      "name":"Wraps"
+      "name":"Good Wraps"
     }
+
+
+   
 
 
     
