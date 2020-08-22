@@ -16,33 +16,33 @@
     },
   ],
   
-  "filters":[
+ "filters":[
     {
       "id":1,
-      "name":'All',
+      "name":"All",
     },
     
     
     {
       "id":2,
-      "name":'Appetizers',
+      "name":"Appetizers",
     },
     
     
     {
       "id":3,
-      "name":'Soups',
+      "name":"Soups",
     },
     
     
     {
       "id":4,
-      "name":'Salads',
+      "name":"Salads",
     },
     
     {
       "id":5,
-      "name":'Wraps',
+      "name":"Wraps",
     },
     
     ]
