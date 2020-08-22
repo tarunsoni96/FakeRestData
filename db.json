@@ -15,35 +15,25 @@
       "title": "Hotel 3"
     },
   ],
+ 
   
- "filters":[
+  "hsotels": [
     {
-      "id":1,
-      "name":"All",
-    },
-    
-    
-    {
-      "id":2,
-      "name":"Appetizers",
-    },
-    
-    
-    {
-      "id":3,
-      "name":"Soups",
-    },
-    
-    
-    {
-      "id":4,
-      "name":"Salads",
+      "id": 1,
+      "title": "Hotel 1"
     },
     
     {
-      "id":5,
-      "name":"Wraps",
+      "id": 2,
+      "title": "Hotel 2"
     },
     
-    ]
+    {
+      "id": 3,
+      "title": "Hotel 3"
+    },
+  ],
+ 
+  
+  
 }
